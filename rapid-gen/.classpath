@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="generator/src"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="generator/lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="generator/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="generator/lib/rapid-generator-3.9.3.20100923-source.jar"/>
+	<classpathentry kind="lib" path="generator/lib/rapid-generator-3.9.3.20100923.jar" sourcepath="E:/rapid-framework-3.9.3/generator/lib/rapid-generator-3.9.3.20100923-source.jar"/>
+	<classpathentry kind="lib" path="generator/lib/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="generator/lib/mysql-connector-java-5.1.21.jar"/>
+	<classpathentry kind="lib" path="generator/lib/mybatis-3.1.1.jar" sourcepath="C:/Users/bidlink/.m2/repository/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
